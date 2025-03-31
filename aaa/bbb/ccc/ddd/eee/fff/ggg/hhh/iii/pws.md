@@ -5,7 +5,7 @@ permalink: dango/passionwii
 ---
 En estas instrucciones se indicará como agregar Passion Wii Streaming a DangoPlayer usando el método de lista de acceso rápido 
 
-<img alt='Passion Wii Streaming' width='700' src='https://listas-iptv-wii.github.io/aaa/bbb/ccc/ddd/eee/fff/ggg/hhh/iii/pws.png'/>
+<img alt='Passion Wii Streaming' width='700' src='https://listas-iptv-wii.github.io/aaa/bbb/ccc/ddd/eee/fff/ggg/hhh/iii/pws.jpeg'/>
 
 ## Descripción del nuevo método de lista de acceso rápido
 Este método es el método mas sencillo para acceder a Passion Wii Streaming, ya que simplemente consiste en agregar la lista de acceso rápido a DangoPlayer y ya se puede acceder desde ahí a las listas de Streaming General y Streaming Zona Kids, asi como a la sección de Novedades en el Streaming de Passion Wii Streaming desde DangoPlayer fácilmente como en la aplicación de Passion Wii Streaming para Nintendo Wii
