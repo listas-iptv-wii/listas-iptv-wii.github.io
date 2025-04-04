@@ -3,6 +3,7 @@ layout: page
 title: Agregar Passion Wii Streaming en DangoPlayer
 permalink: dango/passionwii
 ---
+# Agregar Passion Wii Streaming en DangoPlayer
 En estas instrucciones se indicará como agregar Passion Wii Streaming a DangoPlayer usando el método de lista de acceso rápido 
 
 <img alt='Passion Wii Streaming' width='700' src='https://listas-iptv-wii.github.io/aaa/bbb/ccc/ddd/eee/fff/ggg/hhh/iii/pws.jpeg'/>
@@ -24,7 +25,7 @@ Además, este método no requerirá eliminar y volver a agregar las listas en ca
  
   **Nombre de lista:** Passion Wii Streaming
   
-  **URL de lista:** ``https://listas-iptv-wii.github.io/dango/passionwii.m3u``
+  **URL de lista:** ```https://listas-iptv-wii.github.io/dango/passionwii.m3u```
 
 - Una vez introducida la información, selecciona la opción "Guardar lista"
 - Ya tendrás la lista de Passion Wii Streaming agregada a tu DangoPlayer
