@@ -7,7 +7,7 @@ author: Listas IPTV
 
 
 
-baseurl: "/DangoPlayer"
+baseurl: ""
 color: "#26a69a"
 head-theme-color: "#009688"
 accentColor: teal
