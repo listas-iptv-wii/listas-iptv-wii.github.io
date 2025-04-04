@@ -9,7 +9,7 @@ author: Listas IPTV
 
 baseurl: ""
 color: "#26a69a"
-head-theme-color: "#009688"
+head-theme-color: "#26a69a"
 accentColor: teal
 themeColor: teal
 fixedNav: 'true' # true or false
