@@ -1,0 +1,9 @@
+---
+layout: null
+permalink: /dango/mario.m3u
+---
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://listas-iptv-wii.github.io/assets/SuperMarioBrosLaPelicula.png",Super Mario Bros. La Película 
+http://ia801303.us.archive.org/24/items/X3N7N29N/SMABSP23.mkv
+#EXTINF:-1 tvg-logo="https://listas-iptv-wii.github.io/assets/SuperMarioGalaxyLaPelicula.png",Super Mario Galaxy La Película 
+http://ia801303.us.archive.org/24/items/RLBS3A53/105.mkv
