@@ -15,7 +15,7 @@ En estas instrucciones se indicará como agregar WIISTAR a DangoPlayer
  
   **Nombre de lista:** WIISTAR
   
-  **URL de lista:** ```https://archive.org/download/menuprincipal_202607/menu.m3u```
+  **URL de lista:** ```https://pastebin.com/raw/UJ0hnFPU```
 
 - Una vez introducida la información, selecciona la opción "Guardar lista"
 - Ya tendrás la lista de WIISTAR agregada a tu DangoPlayer
